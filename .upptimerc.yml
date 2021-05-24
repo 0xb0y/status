@@ -9,18 +9,20 @@ sites:
     url: https://chaldea.dev
   - name: Scathach Landing Page
     url: http://scathach.dev
-  - name: V2 REST API
-    url: http://192.145.238.5/~pasirm5/v3
   - name: V3 REST API
     url: https://scathach.redsplit.org/api
   - name: CDN ngocok-static
-    url: https://cdn-ngocok-static.sinxdr.workers.dev
+    url: https://static.hentaicdn.com
   - name: CDN ngocok-dikalasedih
-    url: https://cdn-ngocok-dikalasedih-static.sinxdr.workers.dev
+    url: https://cdn.pururin.io
   - name: WebMail
     url: https://scathach.redsplit.org:2096
   - name: Loli Minor Appeals
     url: https://scathach.redsplit.org/static/?params
+  - name: Nhentai Graber
+    url: http://miyako.redsplit.org
+  - name: CabulAPI Reddit
+    url: http://192.145.238.5/~pasirm5/v3/cabul/?hentai
 
 status-website:
   baseUrl: /status
