@@ -58,19 +58,19 @@
     "url": "https://scathach.redsplit.org/api",
     "icon": "https://favicons.githubusercontent.com/scathach.redsplit.org",
     "slug": "v3-rest-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 512,
-    "timeDay": 480,
-    "timeWeek": 524,
-    "timeMonth": 512,
-    "timeYear": 512,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "93.88%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 513,
+    "timeDay": 508,
+    "timeWeek": 526,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2021-06-08": 2
+      "2021-06-08": 88
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://scathach.redsplit.org:2096",
     "icon": "https://favicons.githubusercontent.com/scathach.redsplit.org",
     "slug": "web-mail",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 360,
-    "timeDay": 458,
-    "timeWeek": 401,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 366,
+    "timeDay": 467,
+    "timeWeek": 411,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2021-06-08": 2
+      "2021-06-08": 88
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://scathach.redsplit.org/static/?params",
     "icon": "https://favicons.githubusercontent.com/scathach.redsplit.org",
     "slug": "loli-minor-appeals",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 71,
-    "timeDay": 175,
-    "timeWeek": 75,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 80,
+    "timeDay": 202,
+    "timeWeek": 94,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2021-06-08": 1
+      "2021-06-08": 87
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "http://192.145.238.5/~pasirm5/v3/cabul/?hentai",
     "icon": "https://favicons.githubusercontent.com/192.145.238.5",
     "slug": "cabul-api-reddit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 950,
-    "timeDay": 947,
-    "timeWeek": 989,
-    "timeMonth": 950,
-    "timeYear": 950,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 955,
+    "timeDay": 991,
+    "timeWeek": 995,
+    "timeMonth": 955,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 86
     }
   }
 ]
