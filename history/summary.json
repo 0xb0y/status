@@ -58,18 +58,20 @@
     "url": "https://scathach.redsplit.org/api",
     "icon": "https://favicons.githubusercontent.com/scathach.redsplit.org",
     "slug": "v3-rest-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 512,
     "timeDay": 480,
     "timeWeek": 524,
     "timeMonth": 512,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 2
+    }
   },
   {
     "name": "CDN ngocok-static",
@@ -77,11 +79,11 @@
     "icon": "https://favicons.githubusercontent.com/static.hentaicdn.com",
     "slug": "cdn-ngocok-static",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 933,
     "timeDay": 215,
     "timeWeek": 1882,
@@ -114,36 +116,40 @@
     "url": "https://scathach.redsplit.org:2096",
     "icon": "https://favicons.githubusercontent.com/scathach.redsplit.org",
     "slug": "web-mail",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 360,
     "timeDay": 458,
     "timeWeek": 401,
     "timeMonth": 360,
     "timeYear": 360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 2
+    }
   },
   {
     "name": "Loli Minor Appeals",
     "url": "https://scathach.redsplit.org/static/?params",
     "icon": "https://favicons.githubusercontent.com/scathach.redsplit.org",
     "slug": "loli-minor-appeals",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 71,
     "timeDay": 175,
     "timeWeek": 75,
     "timeMonth": 71,
     "timeYear": 71,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 1
+    }
   },
   {
     "name": "Nhentai Graber",
@@ -168,9 +174,9 @@
     "url": "http://192.145.238.5/~pasirm5/v3/cabul/?hentai",
     "icon": "https://favicons.githubusercontent.com/192.145.238.5",
     "slug": "cabul-api-reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,6 +185,8 @@
     "timeWeek": 989,
     "timeMonth": 950,
     "timeYear": 950,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
