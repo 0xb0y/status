@@ -29,6 +29,7 @@ status-website:
   logoUrl: https://github.githubassets.com/favicons/favicon.svg
   name: Service Status
   introTitle: "ScathachStats"
+  cname: status.scathach.dev # Custom CNAME
   introMessage: Status inidicators for services provided by Scathach
   navbar:
     - title: Status
