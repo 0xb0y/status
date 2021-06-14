@@ -25,11 +25,10 @@ sites:
     url: http://192.145.238.5/~pasirm5/v3/cabul/?hentai
 
 status-website:
-  baseUrl: /status
+  cname: status.scathach.dev # Custom CNAME
   logoUrl: https://github.githubassets.com/favicons/favicon.svg
   name: Service Status
   introTitle: "ScathachStats"
-  cname: status.scathach.dev # Custom CNAME
   introMessage: Status inidicators for services provided by Scathach
   navbar:
     - title: Status
