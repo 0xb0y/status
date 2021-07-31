@@ -75,6 +75,38 @@ sites:
     url: https://hentai2read.com/
   - name: HentaiHere
     url: https://hentaihere.com/
+  - name: HentaiHere
+    url: https://hentaihere.com
+  - name: Jikan
+    url: https://api.jikan.moe/v3
+  - name: Kitsu
+    url: https://kitsu.io/api/edge
+  - name: Usagi
+    url: http://usagi.org/
+  - name: animenewsnetwork
+    url: https://www.animenewsnetwork.com/    
+  - name: Anitrendz
+    url: https://anitrendz.net/
+  - name: AlphaCoders
+    url: https://wall.alphacoders.com/
+  - name: Cryptometer endpoint
+    url: https://api.cryptometer.io
+  - name: Blockchain Pool/Stats
+    url: https://api.blockchain.info/stats
+  - name: JOI waifu
+    url: http://jurnalotaku.com/
+  - name: gtranslateapis
+    url: https://translate.googleapis.com/
+  - name: SauceNAO wrapper
+    url: https://saucenao.com/index.php
+  - name: Nekos
+    url: https://nekos.life/
+  - name: Nekobot
+    url: https://nekobot.xyz/
+  - name: rest_countries
+    url: https://restcountries.eu/
+  - name: geo_ip
+    url: https://ipinfo.io/
 
 status-website:
   cname: status.scathach.dev # Custom CNAME
