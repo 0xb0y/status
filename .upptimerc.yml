@@ -9,7 +9,7 @@ sites:
     url: https://chaldea.dev
   - name: Scathach Landing Page
     url: http://scathach.dev
-  - name: V3 REST API
+  - name: V3 REST
     url: https://scathach.redsplit.org/api
   - name: CDN ngocok-static
     url: https://static.hentaicdn.com
@@ -21,8 +21,60 @@ sites:
     url: https://scathach.redsplit.org/static/?params
   - name: Nhentai Graber
     url: http://miyako.redsplit.org
-  - name: CabulAPI Reddit
+  - name: Cabul Reddit
     url: http://192.145.238.5/~pasirm5/v3/cabul/?hentai
+  - name: Konachan
+    url: https://konachan.com/post.json?
+  - name: Konachan SFW
+    url: https://konachan.net/post.json?
+  - name: Gelbooru
+    url: https://gelbooru.com/index.php?page=dapi&s=post&q=index&limit=50&tags=yuri
+  - name: Safebooru
+    url: https://safebooru.org/index.php?page=dapi&s=post&q=index&limit=50&tags=bikini&json=1
+  - name: Danbooru
+    url: https://danbooru.donmai.us/posts.json
+  - name: R34
+    url: https://rule34.xxx/index.php?page=dapi&s=post&q=index&limit=5&tags=shirase_sakuya&pid=1
+  - name: Xbooru
+    url: https://xbooru.com/index.php?page=dapi&s=post&q=index&limit=50&tags=milf
+  - name: TBIB
+    url: https://tbib.org/index.php?page=dapi&s=post&q=index&limit=50&tags=pregnant
+  - name: Realbooru
+    url: https://realbooru.com/index.php?page=dapi&s=post&q=index&limit=5&tags=slave
+  - name: Yandere
+    url: https://yande.re/post.xml?limit=5&tags=bikini
+  - name: MSpa
+    url: https://mspabooru.com/index.php?page=dapi&s=post&q=index&limit=10
+  - name: Sakuga
+    url: https://www.sakugabooru.com/post.json
+  - name: Yukkuri
+    url: https://yukkuri.shii.org/posts.json
+  - name: HypnoHub
+    url: https://hypnohub.net/post.xml?limit=3&tags=incest
+  - name: Nhentai
+    url: https://nhentai.net/api/gallery/1
+  - name: PornPics
+    url: https://www.pornpics.com/
+  - name: JavPics
+    url: https://javhd.pics/
+  - name: Liquipedia Dota
+    url: https://liquipedia.net/dota2/Main_Page
+  - name: Dotabuff
+    url: https://dotabuff.com/
+  - name: OpenDota
+    url: https://www.opendota.com/
+  - name: MMR Leaderboards
+    url: https://www.dota2.com/leaderboards/#se_asia-0
+  - name: MarketCap
+    url: https://coinmarketcap.com/currencies/ethereum/
+  - name: Pururin
+    url: http://pururin.io/
+  - name: HentaiFox
+    url: https://hentaifox.com/
+  - name: Hentai2Read
+    url: https://hentai2read.com/
+  - name: HentaiHere
+    url: https://hentaihere.com/
 
 status-website:
   cname: status.scathach.dev # Custom CNAME
@@ -36,6 +88,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: light
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
