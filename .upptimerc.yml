@@ -109,7 +109,15 @@ status-website:
   logoUrl: https://github.githubassets.com/favicons/favicon.svg
   name: Service Status
   introTitle: "ScathachStats"
-  introMessage: Status inidicators for services provided by Scathach
+  introMessage: Majority APIs should be covered here
+  <a href="https://scathach.dev"><img align="right" src="https://cdn.discordapp.com/attachments/848794300238266368/868269659110137926/mo.png" width=28%></a>
+
+[![npm](https://img.shields.io/npm/v/booru-armor?color=blue)](https://www.npmjs.com/package/booru-armor)
+<a href="https://codeclimate.com/github/sinkaroid/booru/maintainability"><img src="https://api.codeclimate.com/v1/badges/a35472148b2a0ac5129e/maintainability" /></a>
+[![Node.js CI](https://github.com/sinkaroid/booru/actions/workflows/test.yml/badge.svg)](https://github.com/sinkaroid/booru/actions/workflows/test.yml)
+
+Minimalist library to search Boorus with Tags/spell blocker.  
+Save lots of your time to handle a bunch of inappropriate tags w/ One-liners.
   navbar:
     - title: Status
       href: /
