@@ -109,7 +109,7 @@ status-website:
   logoUrl: https://github.githubassets.com/favicons/favicon.svg
   name: Service Status
   introTitle: "ScathachStats"
-  introMessage: Status inidicators: Majority APIs should covered here.
+  introMessage: Status inidicators majority APIs should covered here.
   navbar:
     - title: Status
       href: /
