@@ -705,11 +705,11 @@
     "icon": "https://favicons.githubusercontent.com/kitsu.io",
     "slug": "kitsu",
     "status": "down",
-    "uptime": "2.34%",
-    "uptimeDay": "2.34%",
-    "uptimeWeek": "2.34%",
-    "uptimeMonth": "2.34%",
-    "uptimeYear": "2.34%",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 148,
     "timeDay": 148,
     "timeWeek": 148,
@@ -797,18 +797,18 @@
     "icon": "https://favicons.githubusercontent.com/api.cryptometer.io",
     "slug": "cryptometer-endpoint",
     "status": "down",
-    "uptime": "2.37%",
-    "uptimeDay": "2.37%",
-    "uptimeWeek": "2.37%",
-    "uptimeMonth": "2.37%",
-    "uptimeYear": "2.37%",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
     "time": 229,
     "timeDay": 229,
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2021-07-31": 0
+      "2021-07-31": 1
     }
   },
   {
@@ -853,18 +853,18 @@
     "icon": "https://favicons.githubusercontent.com/translate.googleapis.com",
     "slug": "gtranslateapis",
     "status": "down",
-    "uptime": "2.97%",
-    "uptimeDay": "2.97%",
-    "uptimeWeek": "2.97%",
-    "uptimeMonth": "2.97%",
-    "uptimeYear": "2.97%",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
     "time": 77,
     "timeDay": 77,
     "timeWeek": 77,
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2021-07-31": 0
+      "2021-07-31": 1
     }
   },
   {
