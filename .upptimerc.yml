@@ -11,6 +11,10 @@ sites:
     url: http://scathach.dev
   - name: V3 REST
     url: https://scathach.redsplit.org/api
+  - name: Top.gg SDK
+    url: https://top.gg/api
+  - name: BotsForDiscord SDK
+    url: https://discords.com/bots/api/bot/
   - name: CDN ngocok-static
     url: https://static.hentaicdn.com
   - name: CDN ngocok-dikalasedih
