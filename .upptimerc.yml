@@ -11,8 +11,6 @@ sites:
     url: http://scathach.dev
   - name: V3 REST
     url: https://scathach.redsplit.org/api
-  - name: Top.gg SDK
-    url: https://top.gg
   - name: BotsForDiscord SDK
     url: https://discords.com/bots
   - name: CDN ngocok-static
