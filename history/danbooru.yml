@@ -1,7 +1,7 @@
 url: https://danbooru.donmai.us/posts.json
-status: up
-code: 200
-responseTime: 503
-lastUpdated: 2021-08-12T23:11:43.341Z
+status: down
+code: 500
+responseTime: 166
+lastUpdated: 2021-08-13T08:34:17.712Z
 startTime: Sat Jul 31 2021 15:06:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
