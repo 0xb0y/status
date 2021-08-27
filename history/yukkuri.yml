@@ -1,7 +1,7 @@
 url: https://yukkuri.shii.org/posts.json
-status: up
-code: 200
-responseTime: 18986
-lastUpdated: 2021-08-26T23:06:21.242Z
+status: down
+code: 502
+responseTime: 317
+lastUpdated: 2021-08-27T05:26:12.958Z
 startTime: Sat Jul 31 2021 15:08:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
