@@ -1,7 +1,7 @@
 url: https://xbooru.com/index.php?page=dapi&s=post&q=index&limit=50&tags=milf
-status: down
-code: 403
-responseTime: 87
-lastUpdated: 2021-09-06T21:31:57.388Z
+status: up
+code: 200
+responseTime: 312
+lastUpdated: 2021-09-06T21:41:29.617Z
 startTime: Sat Jul 31 2021 15:06:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
