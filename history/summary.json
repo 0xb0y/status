@@ -319,19 +319,19 @@
     "url": "https://rule34.xxx/index.php?page=dapi&s=post&q=index&limit=5&tags=shirase_sakuya&pid=1",
     "icon": "https://favicons.githubusercontent.com/rule34.xxx",
     "slug": "r34",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 638,
-    "timeWeek": 476,
-    "timeMonth": 384,
-    "timeYear": 371,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 373,
+    "timeDay": 592,
+    "timeWeek": 479,
+    "timeMonth": 388,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2021-09-06": 1
+      "2021-09-06": 8
     }
   },
   {
@@ -340,19 +340,17 @@
     "icon": "https://favicons.githubusercontent.com/xbooru.com",
     "slug": "xbooru",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 413,
     "timeDay": 218,
     "timeWeek": 238,
     "timeMonth": 353,
     "timeYear": 413,
-    "dailyMinutesDown": {
-      "2021-09-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TBIB",
@@ -439,19 +437,17 @@
     "icon": "https://favicons.githubusercontent.com/www.sakugabooru.com",
     "slug": "sakuga",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 279,
     "timeDay": 171,
     "timeWeek": 253,
     "timeMonth": 274,
     "timeYear": 279,
-    "dailyMinutesDown": {
-      "2021-09-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yukkuri",
@@ -485,19 +481,17 @@
     "icon": "https://favicons.githubusercontent.com/hypnohub.net",
     "slug": "hypno-hub",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 307,
     "timeWeek": 271,
     "timeMonth": 269,
     "timeYear": 304,
-    "dailyMinutesDown": {
-      "2021-09-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nhentai",
@@ -627,7 +621,7 @@
     "uptimeYear": "99.97%",
     "time": 627,
     "timeDay": 697,
-    "timeWeek": 522,
+    "timeWeek": 517,
     "timeMonth": 649,
     "timeYear": 627,
     "dailyMinutesDown": {
@@ -680,19 +674,17 @@
     "icon": "https://favicons.githubusercontent.com/hentaifox.com",
     "slug": "hentai-fox",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 556,
     "timeDay": 473,
     "timeWeek": 544,
     "timeMonth": 543,
     "timeYear": 556,
-    "dailyMinutesDown": {
-      "2021-09-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hentai2Read",
