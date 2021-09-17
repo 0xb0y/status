@@ -1,7 +1,7 @@
 url: https://safebooru.org/index.php?page=dapi&s=post&q=index&limit=50&tags=bikini&json=1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-09-17T19:24:13.573Z
+status: up
+code: 200
+responseTime: 28930
+lastUpdated: 2021-09-17T19:33:37.241Z
 startTime: Sat Jul 31 2021 15:06:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
