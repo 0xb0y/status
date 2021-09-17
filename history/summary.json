@@ -268,7 +268,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 389,
-    "timeDay": 311,
+    "timeDay": 514,
     "timeWeek": 441,
     "timeMonth": 392,
     "timeYear": 389,
@@ -281,10 +281,10 @@
     "url": "https://safebooru.org/index.php?page=dapi&s=post&q=index&limit=50&tags=bikini&json=1",
     "icon": "https://favicons.githubusercontent.com/safebooru.org",
     "slug": "safebooru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 550,
@@ -292,7 +292,9 @@
     "timeWeek": 512,
     "timeMonth": 494,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 1
+    }
   },
   {
     "name": "Danbooru",
