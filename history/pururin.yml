@@ -1,7 +1,7 @@
 url: http://pururin.io/
-status: up
-code: 200
-responseTime: 1742
-lastUpdated: 2021-10-07T17:59:37.001Z
+status: down
+code: 403
+responseTime: 712
+lastUpdated: 2021-10-07T21:55:32.194Z
 startTime: Sat Jul 31 2021 15:08:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
