@@ -680,18 +680,18 @@
     "icon": "https://favicons.githubusercontent.com/pururin.io",
     "slug": "pururin",
     "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "77.55%",
-    "uptimeWeek": "76.48%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "95.48%",
+    "uptime": "95.47%",
+    "uptimeDay": "78.38%",
+    "uptimeWeek": "76.60%",
+    "uptimeMonth": "88.23%",
+    "uptimeYear": "95.47%",
     "time": 1388,
     "timeDay": 1169,
     "timeWeek": 1170,
     "timeMonth": 1250,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2021-10-18": 268,
+      "2021-10-18": 256,
       "2021-10-17": 118,
       "2021-10-16": 153,
       "2021-10-15": 611,
@@ -705,7 +705,7 @@
       "2021-10-07": 372,
       "2021-10-06": 529,
       "2021-10-05": 570,
-      "2021-10-04": 121
+      "2021-10-04": 147
     }
   },
   {
@@ -1033,17 +1033,19 @@
     "url": "https://ipinfo.io/",
     "icon": "https://favicons.githubusercontent.com/ipinfo.io",
     "slug": "geo-ip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 74,
-    "timeWeek": 132,
-    "timeMonth": 158,
-    "timeYear": 138,
-    "dailyMinutesDown": {}
+    "time": 137,
+    "timeDay": 83,
+    "timeWeek": 125,
+    "timeMonth": 156,
+    "timeYear": 137,
+    "dailyMinutesDown": {
+      "2021-10-18": 1
+    }
   }
 ]
