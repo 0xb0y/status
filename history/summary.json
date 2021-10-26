@@ -682,19 +682,19 @@
     "url": "http://pururin.io/",
     "icon": "https://favicons.githubusercontent.com/pururin.io",
     "slug": "pururin",
-    "status": "up",
-    "uptime": "96.00%",
-    "uptimeDay": "59.49%",
-    "uptimeWeek": "74.25%",
-    "uptimeMonth": "88.62%",
-    "uptimeYear": "96.00%",
-    "time": 1354,
-    "timeDay": 1495,
-    "timeWeek": 1243,
-    "timeMonth": 1195,
-    "timeYear": 1354,
+    "status": "down",
+    "uptime": "96.02%",
+    "uptimeDay": "60.36%",
+    "uptimeWeek": "74.24%",
+    "uptimeMonth": "88.68%",
+    "uptimeYear": "96.02%",
+    "time": 1353,
+    "timeDay": 1406,
+    "timeWeek": 1235,
+    "timeMonth": 1194,
+    "timeYear": 1353,
     "dailyMinutesDown": {
-      "2021-10-26": 156,
+      "2021-10-26": 158,
       "2021-10-25": 432,
       "2021-10-24": 268,
       "2021-10-23": 342,
@@ -709,7 +709,7 @@
       "2021-10-14": 296,
       "2021-10-13": 513,
       "2021-10-12": 272,
-      "2021-10-11": 140
+      "2021-10-11": 113
     }
   },
   {
@@ -981,18 +981,18 @@
     "icon": "https://favicons.githubusercontent.com/saucenao.com",
     "slug": "sauce-nao-wrapper",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 553,
     "timeDay": 252,
     "timeWeek": 2174,
     "timeMonth": 790,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2021-10-26": 1
+      "2021-10-26": 16
     }
   },
   {
