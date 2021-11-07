@@ -549,10 +549,10 @@
     "url": "https://www.pornpics.com/",
     "icon": "https://favicons.githubusercontent.com/www.pornpics.com",
     "slug": "porn-pics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 297,
@@ -561,7 +561,7 @@
     "timeMonth": 392,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2021-11-07": 20
+      "2021-11-07": 21
     }
   },
   {
@@ -612,12 +612,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 374,
     "timeDay": 386,
     "timeWeek": 382,
-    "timeMonth": 371,
+    "timeMonth": 357,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2021-10-07": 59
