@@ -549,10 +549,10 @@
     "url": "https://www.pornpics.com/",
     "icon": "https://favicons.githubusercontent.com/www.pornpics.com",
     "slug": "porn-pics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 296,
@@ -561,7 +561,7 @@
     "timeMonth": 382,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2021-11-07": 40
+      "2021-11-07": 41
     }
   },
   {
@@ -694,11 +694,11 @@
     "icon": "https://favicons.githubusercontent.com/pururin.io",
     "slug": "pururin",
     "status": "up",
-    "uptime": "94.52%",
+    "uptime": "94.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "82.18%",
-    "uptimeYear": "94.52%",
+    "uptimeYear": "94.53%",
     "time": 1354,
     "timeDay": 1193,
     "timeWeek": 1344,
