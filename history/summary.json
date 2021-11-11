@@ -83,7 +83,7 @@
     "status": "up",
     "uptime": "98.64%",
     "uptimeDay": "97.61%",
-    "uptimeWeek": "95.25%",
+    "uptimeWeek": "95.44%",
     "uptimeMonth": "97.15%",
     "uptimeYear": "98.64%",
     "time": 1360,
@@ -340,19 +340,19 @@
     "url": "https://rule34.xxx/index.php?page=dapi&s=post&q=index&limit=5&tags=shirase_sakuya&pid=1",
     "icon": "https://favicons.githubusercontent.com/rule34.xxx",
     "slug": "r34",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 364,
-    "timeDay": 681,
-    "timeWeek": 396,
-    "timeMonth": 370,
-    "timeYear": 364,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 371,
+    "timeDay": 773,
+    "timeWeek": 461,
+    "timeMonth": 393,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-11-11": 11
+      "2021-11-11": 1
     }
   },
   {
@@ -707,7 +707,7 @@
     "time": 1354,
     "timeDay": 1368,
     "timeWeek": 1337,
-    "timeMonth": 1219,
+    "timeMonth": 1218,
     "timeYear": 1354,
     "dailyMinutesDown": {
       "2021-11-10": 175,
@@ -982,7 +982,7 @@
     "uptimeYear": "99.67%",
     "time": 1290,
     "timeDay": 1233,
-    "timeWeek": 1286,
+    "timeWeek": 1283,
     "timeMonth": 1334,
     "timeYear": 1290,
     "dailyMinutesDown": {
