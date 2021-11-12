@@ -1,7 +1,7 @@
 url: https://gelbooru.com/index.php?page=dapi&s=post&q=index&limit=50&tags=yuri
-status: down
-code: 500
-responseTime: 119
-lastUpdated: 2021-11-12T09:54:25.703Z
+status: up
+code: 200
+responseTime: 598
+lastUpdated: 2021-11-12T10:11:38.358Z
 startTime: Sat Jul 31 2021 15:06:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
