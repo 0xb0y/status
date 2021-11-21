@@ -1,7 +1,7 @@
 url: https://saucenao.com/index.php
-status: up
-code: 200
-responseTime: 190
-lastUpdated: 2021-11-20T23:06:23.693Z
+status: down
+code: 502
+responseTime: 3349
+lastUpdated: 2021-11-21T22:35:25.371Z
 startTime: Sat Jul 31 2021 17:17:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
