@@ -506,7 +506,7 @@
     "uptimeYear": "98.55%",
     "time": 8586,
     "timeDay": 16220,
-    "timeWeek": 22944,
+    "timeWeek": 22987,
     "timeMonth": 18232,
     "timeYear": 8586,
     "dailyMinutesDown": {
@@ -680,9 +680,9 @@
     "slug": "mmr-leaderboards",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 622,
     "timeDay": 614,
@@ -690,7 +690,6 @@
     "timeMonth": 567,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2021-12-10": 9,
       "2021-10-28": 15,
       "2021-08-03": 19
     }
