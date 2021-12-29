@@ -5,8 +5,6 @@ repo: status # The name of this repository
 sites:
   - name: Sinkaroid Frontbase
     url: https://sinkaroid.io
-  - name: Chaldea Landing Page
-    url: https://chaldea.dev
   - name: Scathach Landing Page
     url: http://scathach.dev
   - name: V3 REST
@@ -45,20 +43,10 @@ sites:
     url: https://realbooru.com/index.php?page=dapi&s=post&q=index&limit=5&tags=slave
   - name: Yandere
     url: https://yande.re/post.xml?limit=5&tags=bikini
-  - name: MSpa
-    url: https://mspabooru.com/index.php?page=dapi&s=post&q=index&limit=10
-  - name: Sakuga
-    url: https://www.sakugabooru.com/post.json
-  - name: Yukkuri
-    url: https://yukkuri.shii.org/posts.json
   - name: HypnoHub
     url: https://hypnohub.net/post.xml?limit=3&tags=incest
   - name: Nhentai
     url: https://nhentai.net/api/gallery/1
-  - name: PornPics
-    url: https://www.pornpics.com/
-  - name: JavPics
-    url: https://javhd.pics/
   - name: Liquipedia Dota
     url: https://liquipedia.net/dota2/Main_Page
   - name: Dotabuff
@@ -78,21 +66,9 @@ sites:
   - name: HentaiHere
     url: https://hentaihere.com/
   - name: HentaiHere
-    url: https://hentaihere.com
-  - name: Jikan
-    url: https://api.jikan.moe/v3
-  - name: Kitsu
-    url: https://kitsu.io/
-  - name: Usagi
-    url: http://usagi.org/
-  - name: animenewsnetwork
-    url: https://www.animenewsnetwork.com/    
+    url: https://hentaihere.com   
   - name: Anitrendz
     url: https://anitrendz.net/
-  - name: AlphaCoders
-    url: https://wall.alphacoders.com/
-  - name: Blockchain Pool/Stats
-    url: https://api.blockchain.info/stats
   - name: JOI waifu
     url: http://jurnalotaku.com/
   - name: SauceNAO wrapper
@@ -101,8 +77,6 @@ sites:
     url: https://nekos.life/
   - name: Nekobot
     url: https://nekobot.xyz/
-  - name: geo_ip
-    url: https://ipinfo.io/
 
 status-website:
   cname: status.scathach.dev # Custom CNAME
