@@ -1,7 +1,7 @@
 url: https://coinmarketcap.com/currencies/ethereum/
-status: down
-code: 504
-responseTime: 10389
-lastUpdated: 2022-03-30T09:59:13.824Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2022-03-30T10:24:59.436Z
 startTime: Sat Jul 31 2021 15:08:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
