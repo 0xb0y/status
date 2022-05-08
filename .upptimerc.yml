@@ -3,80 +3,12 @@ owner: 0xb0y # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
-  - name: Sinkaroid Frontbase
-    url: https://sinkaroid.io
-  - name: Scathach Landing Page
+  - name: Website
     url: http://scathach.dev
-  - name: V3 REST
-    url: https://scathach.redsplit.org/api
-  - name: BotsForDiscord SDK
-    url: https://discords.com/bots
-  - name: CDN ngocok-static
-    url: https://static.hentaicdn.com
-  - name: CDN ngocok-dikalasedih
-    url: https://cdn.pururin.io
-  - name: WebMail
-    url: https://scathach.redsplit.org:2096
-  - name: Loli Minor Appeals
-    url: https://scathach.redsplit.org/static/?params
-  - name: Nhentai Graber
-    url: http://miyako.redsplit.org
-  - name: Cabul Reddit
-    url: http://192.145.238.5/~pasirm5/v3/cabul/?hentai
-  - name: Konachan
-    url: https://konachan.com/post.json?
-  - name: Konachan SFW
-    url: https://konachan.net/post.json?
-  - name: Gelbooru
-    url: https://gelbooru.com/index.php?page=dapi&s=post&q=index&limit=50&tags=yuri
-  - name: Safebooru
-    url: https://safebooru.org/index.php?page=dapi&s=post&q=index&limit=50&tags=bikini&json=1
-  - name: Danbooru
-    url: https://danbooru.donmai.us/posts.json
-  - name: R34
-    url: https://rule34.xxx/index.php?page=dapi&s=post&q=index&limit=5&tags=shirase_sakuya&pid=1
-  - name: Xbooru
-    url: https://xbooru.com/index.php?page=dapi&s=post&q=index&limit=50&tags=milf
-  - name: TBIB
-    url: https://tbib.org/index.php?page=dapi&s=post&q=index&limit=50&tags=pregnant
-  - name: Realbooru
-    url: https://realbooru.com/index.php?page=dapi&s=post&q=index&limit=5&tags=slave
-  - name: Yandere
-    url: https://yande.re/post.xml?limit=5&tags=bikini
-  - name: HypnoHub
-    url: https://hypnohub.net/post.xml?limit=3&tags=incest
-  - name: Nhentai
-    url: https://nhentai.net/api/gallery/1
-  - name: Liquipedia Dota
-    url: https://liquipedia.net/dota2/Main_Page
-  - name: Dotabuff
-    url: https://dotabuff.com/
-  - name: OpenDota
-    url: https://www.opendota.com/
-  - name: MMR Leaderboards
-    url: https://www.dota2.com/leaderboards/#se_asia-0
-  - name: MarketCap
-    url: https://coinmarketcap.com/currencies/ethereum/
-  - name: Pururin
-    url: http://pururin.io/
-  - name: HentaiFox
-    url: https://hentaifox.com/
-  - name: Hentai2Read
-    url: https://hentai2read.com/
-  - name: HentaiHere
-    url: https://hentaihere.com/
-  - name: HentaiHere
-    url: https://hentaihere.com   
-  - name: Anitrendz
-    url: https://anitrendz.net/
-  - name: JOI waifu
-    url: http://jurnalotaku.com/
-  - name: SauceNAO wrapper
-    url: https://saucenao.com/index.php
-  - name: Nekos
-    url: https://nekos.life/
-  - name: Nekobot
-    url: https://nekobot.xyz/
+  - name: Api handled by Skadi
+    url: https://skadi.redsplit.org/v3/
+  - name: Api handled by Shishou
+    url: https://scathach.redsplit.org/api/
 
 status-website:
   cname: status.scathach.dev # Custom CNAME
