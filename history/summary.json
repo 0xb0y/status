@@ -22,19 +22,19 @@
     "url": "https://skadi.redsplit.org/v3/",
     "icon": "https://favicons.githubusercontent.com/skadi.redsplit.org",
     "slug": "api-handled-by-skadi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 373,
-    "timeWeek": 439,
-    "timeMonth": 561,
-    "timeYear": 664,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 656,
+    "timeDay": 361,
+    "timeWeek": 428,
+    "timeMonth": 554,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 19
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://scathach.redsplit.org/api/",
     "icon": "https://favicons.githubusercontent.com/scathach.redsplit.org",
     "slug": "api-handled-by-shishou",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1606,
-    "timeDay": 254,
-    "timeWeek": 2005,
-    "timeMonth": 1411,
-    "timeYear": 1606,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1572,
+    "timeDay": 250,
+    "timeWeek": 1809,
+    "timeMonth": 1375,
+    "timeYear": 1572,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 19
     }
   }
 ]
