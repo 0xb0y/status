@@ -4,19 +4,19 @@
     "url": "http://scathach.dev",
     "icon": "https://favicons.githubusercontent.com/scathach.dev",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 103,
-    "timeWeek": 176,
-    "timeMonth": 189,
-    "timeYear": 190,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 187,
+    "timeDay": 98,
+    "timeWeek": 165,
+    "timeMonth": 186,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-06-17": 0
+      "2022-06-17": 10
     }
   },
   {
