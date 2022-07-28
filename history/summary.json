@@ -4,7 +4,7 @@
     "url": "http://scathach.dev",
     "icon": "https://favicons.githubusercontent.com/scathach.dev",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 142,
     "timeMonth": 191,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "Api handled by Skadi",
