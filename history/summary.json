@@ -4,7 +4,7 @@
     "url": "http://scathach.dev",
     "icon": "https://favicons.githubusercontent.com/scathach.dev",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 295,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2022-08-15": 0,
       "2022-08-09": 19,
       "2022-08-03": 39,
       "2022-07-28": 27
