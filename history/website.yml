@@ -1,7 +1,7 @@
 url: http://scathach.dev
-status: up
-code: 200
-responseTime: 3395
-lastUpdated: 2022-08-16T14:53:26.867Z
+status: down
+code: 500
+responseTime: 212
+lastUpdated: 2022-08-16T16:44:39.244Z
 startTime: Sun May 08 2022 22:40:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
