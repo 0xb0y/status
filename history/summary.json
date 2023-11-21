@@ -84,18 +84,19 @@
     "url": "https://scathach.redsplit.org/api/",
     "icon": "https://icons.duckduckgo.com/ip3/scathach.redsplit.org.ico",
     "slug": "api-handled-by-shishou",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
+    "time": 590,
     "timeDay": 368,
     "timeWeek": 324,
     "timeMonth": 408,
     "timeYear": 476,
     "dailyMinutesDown": {
+      "2023-11-21": 0,
       "2023-10-16": 15
     }
   }
