@@ -4,7 +4,7 @@
     "url": "http://scathach.dev",
     "icon": "https://icons.duckduckgo.com/ip3/scathach.dev.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "94.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 772,
     "timeYear": 893,
     "dailyMinutesDown": {
+      "2023-12-27": 0,
       "2023-09-27": 19,
       "2023-04-27": 17,
       "2023-04-01": 917,
