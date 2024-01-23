@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/scathach.dev.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "94.24%",
+    "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "90.26%",
     "time": 847,
-    "timeDay": 598,
-    "timeWeek": 1269,
+    "timeDay": 682,
+    "timeWeek": 1262,
     "timeMonth": 1259,
-    "timeYear": 960,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2023-12-27": 16,
       "2023-09-27": 19,
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 215,
-    "timeWeek": 385,
-    "timeMonth": 471,
-    "timeYear": 458,
+    "time": 468,
+    "timeDay": 562,
+    "timeWeek": 410,
+    "timeMonth": 482,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2023-10-16": 15
     }
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 195,
-    "timeWeek": 362,
-    "timeMonth": 434,
-    "timeYear": 452,
+    "timeDay": 443,
+    "timeWeek": 375,
+    "timeMonth": 441,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2023-10-16": 15
     }
