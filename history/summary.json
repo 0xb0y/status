@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 702,
+      "2025-11-18": 738,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -408,19 +408,19 @@
     "url": "https://scathach.redsplit.org/api/",
     "icon": "https://icons.duckduckgo.com/ip3/scathach.redsplit.org.ico",
     "slug": "api-handled-by-shishou",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 532,
-    "timeDay": 359,
-    "timeWeek": 421,
-    "timeMonth": 513,
-    "timeYear": 553,
+    "timeDay": 440,
+    "timeWeek": 441,
+    "timeMonth": 516,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 36
     }
   }
 ]
