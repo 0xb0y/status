@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scathach.dev.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "54.41%",
+    "uptime": "54.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 76,
+      "2025-11-18": 702,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -408,17 +408,19 @@
     "url": "https://scathach.redsplit.org/api/",
     "icon": "https://icons.duckduckgo.com/ip3/scathach.redsplit.org.ico",
     "slug": "api-handled-by-shishou",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 541,
-    "timeWeek": 456,
-    "timeMonth": 524,
-    "timeYear": 554,
-    "dailyMinutesDown": {}
+    "timeDay": 359,
+    "timeWeek": 421,
+    "timeMonth": 513,
+    "timeYear": 553,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
