@@ -1,7 +1,7 @@
 url: https://scathach.redsplit.org/api/
-status: up
-code: 200
-responseTime: 603
-lastUpdated: 2025-11-18T12:18:05.049Z
+status: down
+code: 500
+responseTime: 147
+lastUpdated: 2025-11-18T13:02:55.415Z
 startTime: 2022-05-08T22:41:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
