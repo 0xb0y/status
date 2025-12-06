@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scathach.dev.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "53.69%",
+    "uptime": "53.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 322,
+      "2025-12-06": 75,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -379,8 +380,7 @@
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
-      "2024-12-07": 1440,
-      "2024-12-06": 1440
+      "2024-12-07": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
     "time": 502,
-    "timeDay": 1608,
-    "timeWeek": 880,
-    "timeMonth": 553,
-    "timeYear": 505,
+    "timeDay": 1602,
+    "timeWeek": 859,
+    "timeMonth": 556,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2025-12-05": 25,
       "2025-11-18": 91,
@@ -417,10 +417,10 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 530,
-    "timeDay": 334,
-    "timeWeek": 444,
-    "timeMonth": 427,
-    "timeYear": 551,
+    "timeDay": 402,
+    "timeWeek": 440,
+    "timeMonth": 429,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2025-12-05": 25,
       "2025-11-18": 142
